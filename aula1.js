@@ -1,5 +1,5 @@
-const valor1 = 12;
-const valor2 = 5;
+const valor1 = 12333636352;
+const valor2 = 928262622;
 let soma = valor1 + valor2;
 let sub = valor1 - valor2;
 let mult = valor1 * valor2;
