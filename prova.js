@@ -1,6 +1,6 @@
 let av1= 5.0;
-let av2= 0.0;
-let rec1= 1.0;
+let av2= 7.0;
+let rec1= 6.0;
 let rec2= 3.0;
 let nt1;
 let nt2;
