@@ -51,4 +51,10 @@ let livros = [
     }
 ];
 
+function mostraLivros() {
+    livros.forEach((livro) => {
+        console.log(`${livro.titulo} - ${livro.autor} - Ano: ${livro.ano} - Páginas: ${livro.paginas} - Preço: R$ ${livro.preco.toFixed(2)}`);
+    });
+}
 
+mostraLivros();
